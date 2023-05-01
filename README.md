@@ -1,4 +1,4 @@
-# 🚀 The Data Jedi 🌌
+# The Data Jedi <img align="center" src="https://icons-for-free.com/iconfiles/png/512/jedi+master+starwars+yoda+icon-1320166755293974043.png" width="50" height="50" />
 
 <img align="right" src="https://usagif.com/wp-content/uploads/2021/06/acegifdotcom-unique-lightsabre-2.gif" width="300" height="100%" />
 
