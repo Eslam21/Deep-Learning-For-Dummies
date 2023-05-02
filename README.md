@@ -26,7 +26,8 @@ If you have any tips, code examples, or resources to share, feel free to submit 
 
 ![giphy](https://user-images.githubusercontent.com/74459082/235523884-4ddab998-11b2-4d17-a9d1-8cb065e02efa.gif)
 
-I hope you find this repository useful and informative as you embark on your own journey into the world of data science. 🚀 Remember, the path to becoming a Data Jedi is long and challenging, but the rewards are great. May the Force be with you on your journey! 💪
+I hope you find this repository useful and informative as you embark on your own journey into the world of data science.  
+🚀 Remember, the path to becoming a Data Jedi is long and challenging, but the rewards are great. May the Force be with you on your journey! 💪
 
 
 
